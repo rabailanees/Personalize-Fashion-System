@@ -60,10 +60,6 @@ python recommend.py --query_image /path/to/your/fashion/image.jpg
 
 This will return the top 5 closest fashion images from the dataset, offering personalized recommendations based on visual similarity.
 
-## Contributing
-
-Feel free to fork the repository, open issues, and submit pull requests. Contributions are always welcome!
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
